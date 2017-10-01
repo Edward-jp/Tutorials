@@ -7,7 +7,7 @@
 
 - [ベイズ線形回帰](BayesianLinearRegression.ipynb)   教師あり学習の基本的なモデル
 
-- ベイズロジスティック回帰
+- [ベイズロジスティック回帰](BayesianLogisticRegression.ipynb)
 
 - ベイズ線形回帰(MCMC)
 
