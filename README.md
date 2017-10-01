@@ -1,5 +1,5 @@
 # Tutorials
-Edwardチュートリアルの日本語訳
+[Edwardチュートリアル](http://edwardlib.org/tutorials/)の日本語訳
 
 - 確率モデルについて
 - 確率モデルの推定
