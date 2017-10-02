@@ -2,7 +2,7 @@
 [Edwardチュートリアル](http://edwardlib.org/tutorials/)の日本語訳
 
 - 背景
-  - 確率モデルについて
+  - [確率モデルについて](ProbablisticModels.ipynb)
   - 確率モデルの推定
   - モデルのcriticism
 
