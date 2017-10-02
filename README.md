@@ -2,9 +2,9 @@
 [Edwardチュートリアル](http://edwardlib.org/tutorials/)の日本語訳
 
 - 背景
--- 確率モデルについて
--- 確率モデルの推定
--- モデルのcriticism
+ - 確率モデルについて
+ - 確率モデルの推定
+ - モデルのcriticism
 
 - [ベイズ線形回帰](BayesianLinearRegression.ipynb)   教師あり学習の基本的なモデル
 
