@@ -3,8 +3,8 @@
 
 - 背景
   - [確率モデルについて](ProbablisticModels.ipynb)
-  - 確率モデルの推定
-  - [モデルのcriticism](Inference.ipynb)
+  - [確率モデルの推定](Inference.ipynb)
+  - [モデルのcriticism]
 
 - [ベイズ線形回帰](BayesianLinearRegression.ipynb)   教師あり学習の基本的なモデル
 
