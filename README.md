@@ -4,7 +4,7 @@
 - 背景
   - [確率モデルについて](ProbablisticModels.ipynb)
   - 確率モデルの推定
-  - モデルのcriticism
+  - [モデルのcriticism](Inference.ipynb)
 
 - [ベイズ線形回帰](BayesianLinearRegression.ipynb)   教師あり学習の基本的なモデル
 
