@@ -24,7 +24,7 @@
 - 線形混合モデル
 固定、ランダム効果の入った線形モデル
 
-- Gaussian processでの分類
+- [Gaussian processでの分類](GaussianProcess.ipynb)
 関数の空間上での教師あり分類　
 
 - 混合モデル
