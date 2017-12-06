@@ -3,8 +3,8 @@
 
 - 背景
   - [確率モデルについて](ProbablisticModels.ipynb)
-  - 確率モデルの推定
-  - モデルのcriticism
+  - [確率モデルの推定](Inference.ipynb)
+  - [モデルのcriticism]
 
 - [ベイズ線形回帰](BayesianLinearRegression.ipynb)   教師あり学習の基本的なモデル
 
@@ -24,7 +24,7 @@
 - 線形混合モデル
 固定、ランダム効果の入った線形モデル
 
-- Gaussian processでの分類
+- [Gaussian processでの分類](GaussianProcess.ipynb)
 関数の空間上での教師あり分類　
 
 - 混合モデル
