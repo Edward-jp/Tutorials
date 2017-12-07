@@ -10,7 +10,7 @@
 
 - [ベイズロジスティック回帰](BayesianLogisticRegression.ipynb)
 
-- ベイズ線形回帰(MCMC)
+- [ベイズ線形回帰(MCMC)](BayesianLinearRegression_MCMC.ipynb)
 
 - Batch training
 どうやってデータのミニバッチで学習を行うか。
