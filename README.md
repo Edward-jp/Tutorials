@@ -21,7 +21,7 @@
 - TensorBoard
 学習の可視化、計算グラフを見る、対話的に学習をおこなう。
 
-- 線形混合モデル
+- [線形混合モデル](LinearMixedEffect.ipynb)
 固定、ランダム効果の入った線形モデル
 
 - [Gaussian processでの分類](GaussianProcess.ipynb)
