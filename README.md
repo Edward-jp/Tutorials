@@ -12,7 +12,7 @@
 
 - [ベイズ線形回帰(MCMC)](BayesianLinearRegression_MCMC.ipynb)
 
-- Batch training
+- [Batch training](BatchTraining.ipynb)
 どうやってデータのミニバッチで学習を行うか。
 
 - [自動変数変換](automated_transformations.ipynb)
