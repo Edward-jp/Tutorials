@@ -18,7 +18,7 @@
 - [自動変数変換](automated_transformations.ipynb)
 連続な制約のある台上での計算を簡単に行うために変数変換を行う
 
-- TensorBoard
+- [TensorBoard](TensorBoard.ipynb)
 学習の可視化、計算グラフを見る、対話的に学習をおこなう。
 
 - [線形混合モデル](LinearMixedEffect.ipynb)
