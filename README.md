@@ -27,7 +27,7 @@
 - [Gaussian processでの分類](GaussianProcess.ipynb)
 関数の空間上での教師あり分類　
 
-- 混合モデル
+- [混合モデル](UnsupervisedLearning.ipynb)
 データ点のクラスタリングによる教師なし学習
 
 - Latent space models
