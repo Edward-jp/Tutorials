@@ -30,7 +30,7 @@
 - [混合モデル](UnsupervisedLearning.ipynb)
 データ点のクラスタリングによる教師なし学習
 
-- Latent space models
+- [Latent space models](Latentspacemodels.ipynb)
 (線虫の)神経データの接続のパターンを解析する。
 
 - 混合密度モデル
