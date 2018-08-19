@@ -33,7 +33,7 @@
 - [Latent space models](Latentspacemodels.ipynb)
 (線虫の)神経データの接続のパターンを解析する。
 
-- 混合密度モデル
+- [混合密度モデル](MDN.ipynb)
 逆問題を解くためのニューラル密度推定
 
 - [敵対的生成ネットワーク(GAN)](GAN.ipynb)
